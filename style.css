@@ -1,0 +1,38 @@
+img{
+    width:320px;
+    min-height:200px;
+}
+
+
+
+image
+{
+    width:320px;
+    min-height:200px;  
+}
+
+
+
+#logo{
+    border-radius: 5;
+    width: 200px;
+    height: 300px;
+}
+h1 {
+    background: linear-gradient(#e4b8cd 0%, #c1a5f5 100%)}
+   
+   
+  h2  {
+        background: linear-gradient(#6e46fc 0%, #a583e2 100%)}
+
+      p {
+            background: linear-gradient(#80e8da 0%, #884df7 100%)
+        }
+        
+        .my_nav_bar{
+            position: sticky;
+            top: 0;
+            z-index: 9999;
+            
+         }
+        
